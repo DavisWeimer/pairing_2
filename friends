@@ -1,0 +1,9 @@
+arrays = ["Michael", "Danny", "Ivy", "Mari", "Sarah"]
+puts arrays[2]
+puts arrays[4]
+puts arrays[0]
+
+places = ["Kentucky", "Colorado", "London", "Venice", "Scotland"]
+
+puts places.pop
+puts places
